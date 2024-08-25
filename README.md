@@ -1,5 +1,5 @@
 # HydrogelMPM
-![Github License](https://img.shields.io/github/license/Yihao-Shi/Hydrogel)
+![Github License](https://img.shields.io/github/license/Yihao-Shi/HydrogelMPM)
 
 A Material point method for simulating hydeogel materials, which is developed by [Taichi language](https://github.com/taichi-dev/taichi).
 
