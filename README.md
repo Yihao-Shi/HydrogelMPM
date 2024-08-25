@@ -5,7 +5,7 @@ A Material point method for simulating hydeogel materials, which is developed by
 
 ## Demo
 <p align="center">
-    <img src="https://github.com/Yihao-Shi/GeoTaichi/blob/main/hydrogel.gif" width="50%" height="50%" />
+    <img src="https://github.com/Yihao-Shi/HydrogelMPM/blob/main/hydrogel.gif" width="90%" height="90%" />
 </p>
 
 ## How to install
@@ -25,7 +25,7 @@ python hydrogelImpact.py
 3. PIC/FLIP mapping
 4. F bar method for nearly incompressible materials
 5. Five hyperelastic models:
-   - Neo-hookean
+   - Neo-hookean 
    - Mooney Rivlin
    - Generalized Mooney Rivlin
    - Gent
